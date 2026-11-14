@@ -1,0 +1,3 @@
+browser tab: <title> coderz معهد </title>
+
+the main heading: <h1>معهد coderz</h1>
